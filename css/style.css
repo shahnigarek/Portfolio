@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+a{
+    text-decoration: none;
+}
+
+#First-part{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding:15rem 0;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+#First-part h1{
+    color: #212529;
+    font-size: 88px;
+}
+#First-part h3{
+    color: #212529;
+    font-size: 28px;
+    margin-bottom: 50px;
+}
+#First-part a{
+    background-color: #1D809F;
+    padding: 20px 40px;
+    color:#FFFF;
+    font-size: 16px;
+    border-radius: 0.25rem;
+    font-weight: bold;
+    transition: 0.5s;
+}
+#First-part a:hover{
+    background-color: #185d72;
+    padding: 22px 42px;
+}
+#Second-part{
+    text-align: center;
+    padding:5rem 0;
+}
+#Second-part h2{
+    font-weight: bold;
+    color:#212529;
+    margin-bottom: 10px;
+    font-size:30px;
+}
+#Second-part p{
+    color:#212529;
+    font-size: 20px;
+    margin-bottom: 40px;
+
+}
+#Second-part .second_btn{
+    background-color:#212529;
+    padding: 20px 40px;
+    color:#FFFF;
+    font-size: 16px;
+    border-radius: 0.25rem;
+    font-weight: bold;
+  
+}
+#Second-part p a{
+    text-decoration: underline;
+}
+#Third-part{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 15rem 0;
+    text-align: center;
+    background-attachment: fixed;
+}
+#Third-part h2{
+    color:#212529;
+    font-size: 56px;
+    margin:0px 96px 48px;
+
+}
+#Third-part a{
+    background-color:#1D809F;
+    color:#FFFF;
+    padding: 20px 40px;
+    font-size: 16px;
+    border-radius: 0.25rem;
+    font-weight: bold;
+    transition: 0.5s;
+}
+#Third-part a:hover{
+    background-color: #185d72;
+    padding: 22px 42px;
+}
+#Fourth-part{
+    text-align: center;
+    background-color: #1D809F;
+    padding:5rem 0;
+}
+#Fourth-part h2{
+    font-size: 31px;
+    color: #FFFF;
+    margin: 30px;
+}
+#Fourth-part .click{
+color:#000000;
+font-size: 16px;
+background-color: #F8F9FA;
+padding:20px 40px;
+border-radius: 0.25rem;
+margin-right: 15px;
+
+}
+ #Fourth-part .look{
+    color:#FFFF;
+    font-size: 16px;
+    background-color:#212529;
+    padding:20px 40px;
+    border-radius: 0.25rem;
+    margin-left: 15px;
+    
+}
+
+
+
